@@ -7,7 +7,6 @@
 "Genome-wide methylation profiles reveal quantitative views of human aging rates."
 
 - [link](https://www.ncbi.nlm.nih.gov/pubmed/23177740?dopt=Abstract)
-
 - chip: affy 450
 - 630 patients
 - blood dna
